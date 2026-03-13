@@ -1,0 +1,9 @@
+# 排除所有子演示项目和第三方库文件夹
+AstrBot/
+EasyTier/
+FFmpeg/
+git-demo/
+gitflow-demo/
+github-flow-demo/
+gitlab-flow-demo/
+tmp-conflict-demo/
