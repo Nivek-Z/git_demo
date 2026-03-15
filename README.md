@@ -1,5 +1,5 @@
 ﻿
-组会演示
+[组会纲要](https://github.com/Nivek-Z/git_demo/blob/main/%E7%BB%84%E4%BC%9A%E7%BA%B2%E8%A6%81.md)
 
 # 三种常见的规范
 ### git_flow(如[git_flow_demo](https://github.com/Nivek-Z/git_flow_demo))
